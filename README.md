@@ -46,4 +46,3 @@ src/
 ├── styles/            # Global styles (Tailwind imports)
 ├── App.tsx            # Main application
 ├── main.tsx           # Entry point
-└── types.ts           # Type definitions (if used)
